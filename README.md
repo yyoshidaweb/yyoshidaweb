@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yuma yoshida!
-- 👀 I’m interested in Web.
+- 👀 I’m interested in Music.
 - 🌱 I’m currently learning HTML,CSS,JavaScript.
 
 <!---
