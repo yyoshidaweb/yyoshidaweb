@@ -1,4 +1,4 @@
-- 👋 Hi, I’m yuma yoshida!
+- 👋 Hi, I’m Yuma Yoshida!
 - 👀 I’m interested in Music.
 - 🌱 I’m currently learning HTML,CSS,JavaScript.
 
