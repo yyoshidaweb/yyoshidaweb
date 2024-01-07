@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuma Yoshida!
 - 👀 I’m interested in Music.
-- 🌱 I’m currently learning HTML,CSS,JavaScript,Java.
+- 🌱 I’m currently learning HTML,CSS,JavaScript,Java,PHP.
 
 <!---
 yoshida-github/yoshida-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
