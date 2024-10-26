@@ -9,7 +9,7 @@ I am currently working at an SES company, aiming to become a backend engineer.
 
 I am also interested in frontend development, with the goal of creating simple and enjoyable web applications.
 
-I run a personal project, a service called "meesic.me."
+I run a personal project, a service called "[**meesic.me**](https://meesic.me/)"
 
 <!---
 yoshida-github/yoshida-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
