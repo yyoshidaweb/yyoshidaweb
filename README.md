@@ -1,1 +1,4 @@
-[みんなのタイムテーブル](https://github.com/yyoshidaweb/everyones_timetable) を開発中です。
+音楽が好きなソフトウェアエンジニアです。\
+[みんなのタイムテーブル](https://minnanotimetable.com) というWebサービスを運営しています。
+
+**詳細はこちら→** [ホームページ](https://piku.page/@yyoshidaweb)
